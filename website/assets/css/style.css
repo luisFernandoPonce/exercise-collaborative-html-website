@@ -1,3 +1,32 @@
-body{
-    background: #BDBDBD;
+
+.container1 {
+    background-image: url("../img/bg.jpg");
+    background-position: center;
+    margin-left: 0px;
+    margin-right: 0px;
+    background-size: cover;
+    height: 500px;
+    width: auto;
+    padding: 60px 0px 20px 0px;
+}
+
+.full-width {
+    width: 100%;
+    background: white;
+  }
+  .title_text {
+    max-width: 30em;
+    margin: 0 auto;
+    font-size: 200%;
+    text-align: center;
+  }
+  .subtitle_text {
+    max-width: 30em;
+    margin: 0 auto;
+    font-size: 150%;
+    text-align: center;
+  }
+
+.navbar {
+    padding-left: 30px;
 }
