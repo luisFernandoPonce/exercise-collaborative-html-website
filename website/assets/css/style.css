@@ -4,16 +4,20 @@
     background-position: center;
     margin-left: 0px;
     margin-right: 0px;
+    margin-bottom: 40px;
     background-size: cover;
-    height: 500px;
+    height: 600px;
     width: auto;
-    padding: 60px 0px 20px 0px;
+    padding: 0px 0px 20px 0px;
 }
 
+.row-navbar {
+  margin-bottom: 50px;
+}
 .full-width {
     width: 100%;
     background: white;
-  }
+}
   .title_text {
     max-width: 30em;
     margin: 0 auto;
@@ -26,10 +30,13 @@
     font-size: 150%;
     text-align: center;
   }
-
+.row-sub {
+  padding-top: 30px;
+}
 .navbar {
     padding-left: 30px;
 }
+
 body{
     background: #BDBDBD;
 }
