@@ -1,14 +1,10 @@
 
-.container1 {
+.jumbotron-fluid {
     background-image: url("../img/bg.jpg");
-    background-position: center;
-    margin-left: 0px;
-    margin-right: 0px;
     margin-bottom: 40px;
-    background-size: cover;
-    height: 600px;
-    width: auto;
-    padding: 0px 0px 20px 0px;
+    background-size: cover; 
+    height: 700px;
+    
 }
 
 .row-navbar {
